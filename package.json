@@ -1,0 +1,22 @@
+{
+    "name": "theme-atomic-dark",
+    "displayName": "Atomic Dark Theme",
+    "description": "Theme based on VSCode Dark+ and inspired by Atom's One Dark",
+    "version": "0.0.1",
+    "publisher": "kimkwanka",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atomic Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AtomicDark.tmTheme"
+            }
+        ]
+    }
+}
