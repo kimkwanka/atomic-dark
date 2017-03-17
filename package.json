@@ -18,5 +18,9 @@
                 "path": "./themes/AtomicDark.tmTheme"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/kimkwanka/atomic-dark.git"
     }
 }
