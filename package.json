@@ -4,7 +4,11 @@
     "description": "Theme based on VSCode Dark+ and inspired by Atom's One Dark",
     "icon": "icon.svg",
     "license": "MIT",
-    "version": "0.1.1",
+    "galleryBanner": {
+        "color": "#1D1D1D",
+        "theme": "dark"
+    },
+    "version": "0.1.2",
     "publisher": "kimkwanka",
     "engines": {
         "vscode": "^1.10.0"
