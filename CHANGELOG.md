@@ -3,5 +3,5 @@ All notable changes to the "theme-atomic-dark" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
-- Initial release
+## [0.2.0]
+- Changed colors for SCSS to match those of CSS / Stylus
